@@ -1,0 +1,10 @@
+hello
+morning
+jump
+cat
+dog
+fish
+cake
+doll
+bat
+rat
